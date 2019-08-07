@@ -10,5 +10,6 @@ end
 find_max_value([32, 453, 72, 566])
 
 def find_min_value(array)
-  # Add your solution here
+  array.min()
 end
+find_max_value([32, 453, 72, 566])
